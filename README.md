@@ -9,7 +9,7 @@ This is a basic calculator app with all basic functions.
 -   [Tech stack](#tech-stack)
 -   [Author](#author)
 
-# 🟢 Live demo [Calculator]()
+# 🟢 Live demo [Calculator](https://classy-pika-9eaab8.netlify.app/)
 
 # 📷 Screenshot
 
